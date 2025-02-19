@@ -67,3 +67,7 @@ Here are some ideas to get you started:
      src="https://www.vhv.rs/dpng/d/443-4430861_django-python-logo-png-png-download-django-python.png" 
      alt="django" height="30" style="vertical-align:top; margin:10px"> 
 </p>
+
+
+### Github Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajibcu&custom_title=Sajib's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
