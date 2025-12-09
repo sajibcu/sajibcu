@@ -3,7 +3,7 @@
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sajibcu)](https://github.com/ryo-ma/github-profile-trophy)
-![Moinul's github stats](https://github-readme-stats.vercel.app/api?username=sajibcu&count_private=true)
+![Sajib's github stats](https://github-readme-stats.vercel.app/api?username=sajibcu&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajibcu&langs_count=8&hide=html,css&layout=compact)](https://github.com/aang13/github-readme-stats)
 
 ### Main skills
